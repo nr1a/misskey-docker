@@ -1,0 +1,2 @@
+# misskey-docker
+docker only
